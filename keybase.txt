@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/drepram
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://acp.github.io
+  * I am drepram (https://keybase.io/drepram) on keybase.
+  * I have a public key with fingerprint 7B07 C98B 0603 5116 19FB  169F 47CC DD13 8FBC 491B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014ff00a0c85ea49d4a062facaaa6e986963b5a1dad6988a4e415ab458f33f4ed50a",
+      "fingerprint": "7b07c98b0603511619fb169f47ccdd138fbc491b",
+      "host": "keybase.io",
+      "key_id": "47ccdd138fbc491b",
+      "kid": "01014ff00a0c85ea49d4a062facaaa6e986963b5a1dad6988a4e415ab458f33f4ed50a",
+      "uid": "30c5a4707b5d702f0d0d53ea0cb62619",
+      "username": "drepram"
+    },
+    "service": {
+      "hostname": "acp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1542915112,
+  "expire_in": 157680000,
+  "prev": "b563767dca5f8a73e1bcfd633a40a56c56aaf75116d82a4216b952c981bc640c",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJtSBRBGMfvStOOovfSXpA2C8urZm93ZneP3shCgoKIpBfLc2Zn1lvM
+23Nv7+xOlIIKMSPolZQIMgyRwF4wVIRSezEJjYI+FFFf+hJBUWRlRbNm3/rYfBnm
+md/zn//zPNM/daLH5y18Rm7tOPV8q3fw7vm4p3gkLa9aIBZNCsFqoZyNbewAZTEn
+VG5SISgAEYiyYQCAga5ChmWNyhiggIF1jDFimoo0JBGIRYop0lQVy0wWISYyVA1J
+MmRGIcCCXzDMSBmzo7YZcbisQoCiayoBCEhQFJGoGUREmiEruk6pKKkG0WVNJDwx
+bMXcDG6O4BhbZVo8xg+hMXv/4P+z7/iYnAR0iGUFKARSBQQMQAGFEuPiBAW4exeM
+MTuCKxinqc2iNq4QavwCDyZMnbl9dQsZB7AeXVVmOuE4+VNP1LYcS7cO8Kuw40Rj
+QTfVSUZdtoqR0LhKiJgRyvvIMxLMjplWRAiKnNQd05UVoRzQRN7OgF9gB6OmzUKm
+S0AFqYAv9x2W4JIEIklBCtUxNFSsSEwkukGRJGEZYIh0iDA2FHcuVA1gOSAiosEA
+nxfnkAx0wa2rMmIJQcht4jIuGTPLItiJ20yo6b2zL83j9XkmpU9w/5fHN3n63183
+Iyvj17LU9TU9qAEsfvChva7Ff+lo/GZr/fH2riar4PVIec67s8lD3wdOjn4pzif9
+L/pKt31rnHawakP3je3L7xU1nM67OzflfbMzMyPVV9lyrDDR/DjcP3nL6qIn5Eb2
+0TezXmZ9XHBxflfekl2ptdM+k6YO34WhptqBREeyM7PKW7d2yvrDzanS2wUrm+Vv
+73vVmqc/r9VWb7k6skjYn7qeXZzTXQKjJ1e2jebOnPfJn588kinm1517P3ql6/KT
+6ZtW5C4/09k6/PZhdr3vqV+V95TsWLemtndp+TGl0SFtJ3YNvVoYTnwuzTnS0/Zj
+9qVGPd174Wv7xoXDewd33+87lP7o2pzNq72/ARM1PRc=
+=TjWW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/drepram
+
+==================================================================
