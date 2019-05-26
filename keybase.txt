@@ -4,7 +4,7 @@ https://keybase.io/drepram
 
 I hereby claim:
 
-  * I am an admin of https://acp.github.io
+  * I am an admin of https://drepram.now.sh
   * I am drepram (https://keybase.io/drepram) on keybase.
   * I have a public key with fingerprint 7B07 C98B 0603 5116 19FB  169F 47CC DD13 8FBC 491B
 
@@ -21,43 +21,56 @@ To do so, I am signing this object:
       "uid": "30c5a4707b5d702f0d0d53ea0cb62619",
       "username": "drepram"
     },
+    "merkle_root": {
+      "ctime": 1558875986,
+      "hash_meta": "b54d7a84140af8161ff33eb3e251589ab9a340740bbe0999d3eb0e3b45dfc1a5",
+      "seqno": 5450142
+    },
+    "revoke": {
+      "sig_ids": [
+        "131aa546f37884df4efb709397bbe8e52911ccf6d3df1072e03fd7d2848e16cc0f"
+      ]
+    },
     "service": {
-      "hostname": "acp.github.io",
+      "hostname": "drepram.now.sh",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1542915112,
+  "ctime": 1558876000,
   "expire_in": 157680000,
-  "prev": "b563767dca5f8a73e1bcfd633a40a56c56aaf75116d82a4216b952c981bc640c",
-  "seqno": 5,
+  "prev": "a21870b9ae5dd2ffdc70e8234918355895fc34fe5665cc47bac4c2525d12512d",
+  "seqno": 21,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.80
+Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMItAnicrZJtSBRBGMfvStOOovfSXpA2C8urZm93ZneP3shCgoKIpBfLc2Zn1lvM
-23Nv7+xOlIIKMSPolZQIMgyRwF4wVIRSezEJjYI+FFFf+hJBUWRlRbNm3/rYfBnm
-md/zn//zPNM/daLH5y18Rm7tOPV8q3fw7vm4p3gkLa9aIBZNCsFqoZyNbewAZTEn
-VG5SISgAEYiyYQCAga5ChmWNyhiggIF1jDFimoo0JBGIRYop0lQVy0wWISYyVA1J
-MmRGIcCCXzDMSBmzo7YZcbisQoCiayoBCEhQFJGoGUREmiEruk6pKKkG0WVNJDwx
-bMXcDG6O4BhbZVo8xg+hMXv/4P+z7/iYnAR0iGUFKARSBQQMQAGFEuPiBAW4exeM
-MTuCKxinqc2iNq4QavwCDyZMnbl9dQsZB7AeXVVmOuE4+VNP1LYcS7cO8Kuw40Rj
-QTfVSUZdtoqR0LhKiJgRyvvIMxLMjplWRAiKnNQd05UVoRzQRN7OgF9gB6OmzUKm
-S0AFqYAv9x2W4JIEIklBCtUxNFSsSEwkukGRJGEZYIh0iDA2FHcuVA1gOSAiosEA
-nxfnkAx0wa2rMmIJQcht4jIuGTPLItiJ20yo6b2zL83j9XkmpU9w/5fHN3n63183
-Iyvj17LU9TU9qAEsfvChva7Ff+lo/GZr/fH2riar4PVIec67s8lD3wdOjn4pzif9
-L/pKt31rnHawakP3je3L7xU1nM67OzflfbMzMyPVV9lyrDDR/DjcP3nL6qIn5Eb2
-0TezXmZ9XHBxflfekl2ptdM+k6YO34WhptqBREeyM7PKW7d2yvrDzanS2wUrm+Vv
-73vVmqc/r9VWb7k6skjYn7qeXZzTXQKjJ1e2jebOnPfJn588kinm1517P3ql6/KT
-6ZtW5C4/09k6/PZhdr3vqV+V95TsWLemtndp+TGl0SFtJ3YNvVoYTnwuzTnS0/Zj
-9qVGPd174Wv7xoXDewd33+87lP7o2pzNq72/ARM1PRc=
-=TjWW
+yMK4AnicrZNviFVFGMbvWrvZhmZZgSFbndLEvSzz95yZC8FSySJU5H5Ql7au8/fu
+ae8953bO2buuthDZfqnIassVJEVqI0xQRMlCoxYJ0sqFBG0rzIwMUZSQgspszqUI
+oY99GmbmeZ953t/MHJpzTaG9peeY3Nv76vGHWo5MDQ8V+s9uXLPek7Ee8UrrvUHT
+HExVmzQrD4baK3kAAkisBUAAxagRhGsigI+sUEII33Dmcx9LKqAW2ueMCWIIpEIS
+yizGlhhNgfCKng2jiknqSRhlzjaQIFCcSeADTCH0IbcS+tySQCmtIWZWKsKhdIUD
+cZpXuHBSpKYrjN2am5Sb8f5D/z/nHmraYaCoIAEIJNUBQBZooCk2zlz6yKXPhalJ
+IlEzTq0TU09EzRstejWTDFZNOYnjLGersjBXQEoZC6gL4foT6UC5ZjLhCiUlOhCM
+QAKEZQ6LdVmMxAZRSBkXkgtMQECAlAZwzrXbBAa70NoqKKiLkZqnotgrUUIdAOQS
+JKYRD5r88DSsOGqpV3rMgxgKQYlvccAY0a5dKwPAMQ+cMzMUcQiVsr7G2kIQIAOw
+1YFGjDADfaWA9R4fzQ9LGqFqmufXdHX7XVE83JUOuEz1JM5iFVfd3kCW1dNSTiYb
+qefiYSPLf9uUZRhp90xcRcMkaRhHjpRTXgXNBwAUPbO2HiamHOYKGvgMNFfrrldn
+KRBkAXCsDNUaWatVAAxD2D0Qhp0Jp1ZhYg31faoUCaRQRCGKqIaOM9L/UkTQ5RQV
+5+nYRSIbSow3OvVR/7WFlvZCW+us/P8U2q+f98+v2rdzdmFy5pbK8e4P9r924v1d
+v65YeegOdNu83fcm1QcO3/mV/2LflH1+7IpgX85/+fLcrDbeuaB24Z03njnX/cW5
+HR/2hdY8OPbjfauWT10Yme6d3FA531qeOblqzF8x/N6mtx7um93Rd3lRddu6T/c8
+d2lOz5mLa5JL4xuyzd9OPHvk3e96fzr1w5/FjeBo5+lla82WpU+gzrs2zXRvPly4
+f8f8ERT/8fGWJd8sGv/5kZu2f3JqYvGs6TPRb8Xv3/y6B6xu9K/W6xbcTl9pvN52
+dnkr3/PLyoMt+xdeWbbrs47fD57fulR33Lr1Bb744sKbJ588dnLi0RMH7v587tHT
+2+US9PR1096Bfd1t296+8YZ79tZf+gtlm4TP
+=MdFj
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
