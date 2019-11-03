@@ -4,7 +4,7 @@ https://keybase.io/drepram
 
 I hereby claim:
 
-  * I am an admin of https://drepram.now.sh
+  * I am an admin of https://drepram.com
   * I am drepram (https://keybase.io/drepram) on keybase.
   * I have a public key with fingerprint 7B07 C98B 0603 5116 19FB  169F 47CC DD13 8FBC 491B
 
@@ -21,56 +21,43 @@ To do so, I am signing this object:
       "uid": "30c5a4707b5d702f0d0d53ea0cb62619",
       "username": "drepram"
     },
-    "merkle_root": {
-      "ctime": 1558875986,
-      "hash_meta": "b54d7a84140af8161ff33eb3e251589ab9a340740bbe0999d3eb0e3b45dfc1a5",
-      "seqno": 5450142
-    },
-    "revoke": {
-      "sig_ids": [
-        "131aa546f37884df4efb709397bbe8e52911ccf6d3df1072e03fd7d2848e16cc0f"
-      ]
-    },
     "service": {
-      "hostname": "drepram.now.sh",
+      "hostname": "drepram.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1558876000,
+  "ctime": 1572792491,
   "expire_in": 157680000,
-  "prev": "a21870b9ae5dd2ffdc70e8234918355895fc34fe5665cc47bac4c2525d12512d",
-  "seqno": 21,
+  "prev": "fbbdc6afc40aec3233ebbaeab9180b1480a1eeed4ec2d24b1842602b1781537b",
+  "seqno": 26,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.0
+Version: Keybase OpenPGP v2.1.3
 Comment: https://keybase.io/crypto
 
-yMK4AnicrZNviFVFGMbvWrvZhmZZgSFbndLEvSzz95yZC8FSySJU5H5Ql7au8/fu
-ae8953bO2buuthDZfqnIassVJEVqI0xQRMlCoxYJ0sqFBG0rzIwMUZSQgspszqUI
-oY99GmbmeZ953t/MHJpzTaG9peeY3Nv76vGHWo5MDQ8V+s9uXLPek7Ee8UrrvUHT
-HExVmzQrD4baK3kAAkisBUAAxagRhGsigI+sUEII33Dmcx9LKqAW2ueMCWIIpEIS
-yizGlhhNgfCKng2jiknqSRhlzjaQIFCcSeADTCH0IbcS+tySQCmtIWZWKsKhdIUD
-cZpXuHBSpKYrjN2am5Sb8f5D/z/nHmraYaCoIAEIJNUBQBZooCk2zlz6yKXPhalJ
-IlEzTq0TU09EzRstejWTDFZNOYnjLGersjBXQEoZC6gL4foT6UC5ZjLhCiUlOhCM
-QAKEZQ6LdVmMxAZRSBkXkgtMQECAlAZwzrXbBAa70NoqKKiLkZqnotgrUUIdAOQS
-JKYRD5r88DSsOGqpV3rMgxgKQYlvccAY0a5dKwPAMQ+cMzMUcQiVsr7G2kIQIAOw
-1YFGjDADfaWA9R4fzQ9LGqFqmufXdHX7XVE83JUOuEz1JM5iFVfd3kCW1dNSTiYb
-qefiYSPLf9uUZRhp90xcRcMkaRhHjpRTXgXNBwAUPbO2HiamHOYKGvgMNFfrrldn
-KRBkAXCsDNUaWatVAAxD2D0Qhp0Jp1ZhYg31faoUCaRQRCGKqIaOM9L/UkTQ5RQV
-5+nYRSIbSow3OvVR/7WFlvZCW+us/P8U2q+f98+v2rdzdmFy5pbK8e4P9r924v1d
-v65YeegOdNu83fcm1QcO3/mV/2LflH1+7IpgX85/+fLcrDbeuaB24Z03njnX/cW5
-HR/2hdY8OPbjfauWT10Yme6d3FA531qeOblqzF8x/N6mtx7um93Rd3lRddu6T/c8
-d2lOz5mLa5JL4xuyzd9OPHvk3e96fzr1w5/FjeBo5+lla82WpU+gzrs2zXRvPly4
-f8f8ERT/8fGWJd8sGv/5kZu2f3JqYvGs6TPRb8Xv3/y6B6xu9K/W6xbcTl9pvN52
-dnkr3/PLyoMt+xdeWbbrs47fD57fulR33Lr1Bb744sKbJ588dnLi0RMH7v587tHT
-2+US9PR1096Bfd1t296+8YZ79tZf+gtlm4TP
-=MdFj
+yMIlAnicrVJrSBVBGL2mvazUMoIe9NjCjMRm9r2XsuhhBEKlUdTVLjM7s9dFvXvb
+Xa/Zg14WVBRZIRTkHzMkQ5Eet1sgGUaQZhCCWKZSCZcQogdUkNCs1I+gn82fYc6c
+c+bM4euckexLTdrci+8UXuwrSOrqqKv0lbQnmg9y2CLVnP8gV0bHN1pOqOMGy0zC
++TkAARQNAwAEdFWiSNSIiIDMG0hHCMlUU2VNFrCEIEFE1lQViVSEEsKipBqCYIiU
+SABxOZxhhkPUjthm2GW2CgaKrqkYyECQIJShZmAoa4ao6DohUFANrIsaxExYajme
+goXDyKG5psUwdgiOx/sH/z/nrhy3E4AuIVEBCpaIAngDEEAkgTJzLPMsvUd0qB1G
+FZSxiU0jNqrgDudwDIyaOvV69T7yNyFXtyqYMmJbrqVb5eyi1HUjjt8TutURj1lF
+cfC3RxCbYcJaZIootR3TCnN+yJi6a3qmUFJ4ReNZCzkc3R8xbRo0w+OwrAK2vHdo
+lFkaGBNdRoYuAkR1gRcEijGiCGtQBRiKKkCQUkpEqvOEFzFURV4GPIaKCiVB8Tp2
+6L6wxfl5meVEIebpmKEwcittyh1+/Kg4xZeU6ps0cYI3Xr7UqRl/hu7Y+ym+1rr9
+z2YvNkG0sXPeuuCBO0M595rP+x6gjo9ZO4rhta9pwpKR2KTy2qs/19d+GT71NTH5
+aNvRhobEqm1V9S/jdkrSjyMtaWe7l31OLph5uv7ssolX/RbKLJz2umrAGsm9kLUz
+b2Wg7kTl7U847vYMlS3Mzzix+SSEIWF16urdxrvjo9Vz0qMnb3alFzQsH7wyEo9d
+eti1a/H0/qYVg4nQ8/lL1+/p7x671HA58GTg3I37vW+OtX1bO7nxbt71DaDne3xB
+jEitV9bUtIwG8rcMT2vKa26fFyga3maWZPYdOvOhLfRxVqxm+ytxb/a642lvNx5q
+fDE2/dbcC87TTRuyF22tGyqq+QVT80M3
+=FctV
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -79,3 +66,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/drepram
 
 ==================================================================
+
