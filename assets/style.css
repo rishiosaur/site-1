@@ -83,7 +83,7 @@ a {
 
 img.banner {
     content:url("banner.jpg");
-    max-width: 50% !important;
+    max-width: 52.5% !important;
     border-radius: 5px;
 }
 
@@ -95,6 +95,27 @@ img.banner {
 
     .nav {
         position: inherit;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    img.banner {
+        max-width: 97.5% !important;
+        border-radius: 5px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    img.banner {
+        max-width: 75% !important;
+        border-radius: 5px;
+    }
+}
+
+@media screen and (min-width: 1440px){
+    img.banner {
+        max-width: 53% !important;
+        border-radius: 5px;
     }
 }
 
