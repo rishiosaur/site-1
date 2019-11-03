@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html id="htmlid">
 
 <head>
     <meta charset="utf-8">
@@ -21,6 +21,21 @@
         gtag('js', new Date());
 
         gtag('config', 'UA-122570966-1');
+
+        ///
+
+        function toggleTheme() {
+             let htmlDom = document.querySelector('#htmlid');
+             let element = document.querySelector('#toggle');
+
+             if (!htmlDom.className.includes("black")) {
+                htmlDom.classList.add('black')
+                element.innerHTML = "☼"
+             } else {
+                htmlDom.classList.remove('black')
+                element.innerHTML = "☽"
+             }
+        }
     </script>
 </head>
 
@@ -29,9 +44,17 @@
         <div class="content" align="center">
             <div class="columns is-mobile">
                 <div class="column">
-                    <img src="assets/banner.jpg" class="banner" loading="lazy">
+                    <img class="banner" loading="lazy">
                 </div>
             </div>
+
+            <div class="nav" align="center">
+                    <a href="javascript:toggleTheme(this)" id="toggle" class="title is-4">☽</a>
+                    <!-- <span class="subtitle is-3"> / </span> -->
+                    <!-- <a href="/?force_locale" hreflang="fr" title="Voir la version française de cette page" class="title is-4">Bahasa I</a> -->
+            </div>
+
+            <br>
 
             <p class="subtitle is-3" style="text-align:left"><strong>👋 Hi! I'm a 15-year-old artist/engineer
                     from Indonesia.</strong></p>
@@ -43,7 +66,7 @@
             <p class="subtitle is-5">My time are mostly taken by studying <i style="color:#F52BAB" class="subtitle is-7">{<a style="color:#F52BAB" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Mathematics">Math</a>, <a style="color:#F52BAB" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Physics">Physics</a>}</i> and 
                 working <i style="color:#C85C53" class="subtitle is-7">{<a style="color:#C85C53" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Software_engineering">Software Engineering</a>, <a style="color:#C85C53" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Graphic_design">Graphic Design</a>}</i>. 
                 My leisures are spent watching <i class="subtitle is-7" style="color:#E50914">{<a style="color:#E50914" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Baby_(Italian_TV_series)">Baby</a>, <a style="color:#E50914" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Explained_(TV_series)">Explained</a>}</i>, 
-                rambling <i class="subtitle is-7" style="color:#006699">{<span style="color:#000">about</span> <a style="color:#006699" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Mathematics">math</a>, <a style="color:#006699" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Computer_science">computer science</a>, <a style="color:#006699" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Philosophy">philosophy</a>}</i>, 
+                rambling <i class="subtitle is-7" style="color:#006699">{<span style="color:#000" id="aboutText">about</span> <a style="color:#006699" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Mathematics">math</a>, <a style="color:#006699" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Computer_science">computer science</a>, <a style="color:#006699" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Philosophy">philosophy</a>}</i>, 
                 reading <i class="subtitle is-7" style="color:#107C10">{<a style="color:#107C10" target="_blank" rel="noopener" href="https://en.m.wikipedia.org/wiki/Nassim_Nicholas_Taleb">N.N. Taleb</a>, A. Boediman}</i>, and working out.</p> 
 
             <p class="subtitle is-5">I use <a target="_blank" rel="noopener" href="https://twitter.com/drepram"

@@ -1,10 +1,58 @@
+html.black img.banner {
+    content:url("rennab.jpg");
+}
+
+html.black {
+    background-color: #1a1a1a;
+    color: #f7f7f7;
+}
+
+html.black p.subtitle {
+    color: #f7f7f7;
+}
+
+html.black strong {
+    color: #fff;
+}
+
+html.black small.hyphenation {
+    color: #95a5a6;
+}
+
+html.black #aboutText {
+    color: #f7f7f7 !important;
+}
+
+html.black a {
+    filter: contrast(10%) saturate(300%) brightness(140%);
+    color: #fff;
+}
+
+html.black .nav a {
+    filter: none;
+    color: #fff;
+}
+
 body {
     margin: 0 5% 0 5%;
 }
 
+.nav a {
+    color: rgba(0,0,0,.3)
+}
+
+.nav a:hover {
+    color: rgba(0,0,0,.6)
+}
+
+.nav a#toggle {
+    filter: none;
+    border-bottom: none;
+}
+
+
 .container {
     font-family: -apple-system, system-ui, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
-    ;
     padding: 5% 0 5% 0 !important;
 }
 
@@ -33,6 +81,7 @@ a {
 }
 
 img.banner {
+    content:url("banner.jpg");
     max-width: 50% !important;
     border-radius: 5px;
 }
@@ -41,6 +90,10 @@ img.banner {
     img.banner {
         max-width: 100% !important;
         border-radius: 5px;
+    }
+
+    .nav {
+        position: inherit;
     }
 }
 
