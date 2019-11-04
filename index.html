@@ -24,6 +24,18 @@
 
         ///
 
+        let hiddenImageSelector = document.querySelector('#hiddenImage');
+        let hiddenImageObject = new Image;
+        hiddenImageObject.onload = function() {
+            if(hiddenImageSelector) {
+                console.log(hiddenImageObject, hiddenImageSelector)
+                hiddenImageSelector.src = this.src;                
+            }
+        }
+        hiddenImageObject.src = 'assets/rennab.jpg';
+
+        ///
+
         function toggleTheme() {
              let htmlDom = document.querySelector('#htmlid');
              let element = document.querySelector('#toggle');
@@ -44,7 +56,8 @@
         <div class="content" align="center">
             <div class="columns is-mobile">
                 <div class="column">
-                    <img class="banner" loading="lazy">
+                    <img src="" style="visibility: hidden;" id="hiddenImage" />
+                    <img class="banner" loading="lazy" />
                 </div>
             </div>
 
