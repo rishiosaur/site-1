@@ -83,40 +83,11 @@ a {
 
 img.banner {
     content:url("banner.jpg");
-    max-width: 52.5% !important;
+    max-width:100%;
+    max-height:100%;
+    height: auto;
+    width: 700px;
     border-radius: 5px;
-}
-
-@media screen and (max-width: 425px) {
-    img.banner {
-        max-width: 100% !important;
-        border-radius: 5px;
-    }
-
-    .nav {
-        position: inherit;
-    }
-}
-
-@media screen and (min-width: 768px) {
-    img.banner {
-        max-width: 97.5% !important;
-        border-radius: 5px;
-    }
-}
-
-@media screen and (min-width: 1024px){
-    img.banner {
-        max-width: 75% !important;
-        border-radius: 5px;
-    }
-}
-
-@media screen and (min-width: 1440px){
-    img.banner {
-        max-width: 53% !important;
-        border-radius: 5px;
-    }
 }
 
 p.subtitle.is-5 {
